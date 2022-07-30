@@ -200,6 +200,10 @@ a:hover {
 }
 
 @media (max-width: 1200px) {
+    .logo-img {
+        position: absolute;
+        top: 4%;
+    }
     .heading {
         font-size: 2rem;
     }
